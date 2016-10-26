@@ -1,0 +1,2 @@
+# TwitterStreaming
+Collects twitter tweets
